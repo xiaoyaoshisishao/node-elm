@@ -1,3 +1,9 @@
+
+部署到我自己的阿里云服务器上，图片路径也配置好了，
+后端：http://dev.qipacity.com/test/test_node/elm/manage/
+前端：http://dev.qipacity.com/test/test_node/elm/elm/#/home 
+
+
 # About
 
 因为前端项目是根据饿了么官网接口写的，所以后台系统也保持了和官网一致的API接口。
